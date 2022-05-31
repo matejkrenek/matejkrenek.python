@@ -1,4 +1,4 @@
-# Spučtění           
+# Spuštění           
     1. instalace knihoven (jestli nemáte):
         - pip install matplotlib
         - pip install requests
